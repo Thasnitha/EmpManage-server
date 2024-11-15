@@ -1,0 +1,34 @@
+{
+  "employee": [
+    {
+      "id": "dd10",
+      "username": "John Manual",
+      "email": "john123@gmail.com",
+      "status": "inactive"
+    },
+    {
+      "id": "f55b",
+      "username": "Manu",
+      "email": "manu@gmail.com",
+      "status": "inactive"
+    },
+    {
+      "id": "22a7",
+      "username": "Arun",
+      "email": "arun@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "caed",
+      "username": "Malavikha",
+      "email": "malavikha@gmail.com",
+      "status": "active"
+    },
+    {
+      "username": "Fathima",
+      "email": "fathima@gmail.com",
+      "status": "inactive",
+      "id": "GxPE-kt"
+    }
+  ]
+}
